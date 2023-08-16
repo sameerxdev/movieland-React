@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movieland-React/static/css/main.267255b8.chunk.css",
+    "main.js": "/movieland-React/static/js/main.d217f3fc.chunk.js",
+    "main.js.map": "/movieland-React/static/js/main.d217f3fc.chunk.js.map",
+    "runtime-main.js": "/movieland-React/static/js/runtime-main.1d5a7673.js",
+    "runtime-main.js.map": "/movieland-React/static/js/runtime-main.1d5a7673.js.map",
+    "static/js/2.9394ceee.chunk.js": "/movieland-React/static/js/2.9394ceee.chunk.js",
+    "static/js/2.9394ceee.chunk.js.map": "/movieland-React/static/js/2.9394ceee.chunk.js.map",
+    "index.html": "/movieland-React/index.html",
+    "static/css/main.267255b8.chunk.css.map": "/movieland-React/static/css/main.267255b8.chunk.css.map",
+    "static/js/2.9394ceee.chunk.js.LICENSE.txt": "/movieland-React/static/js/2.9394ceee.chunk.js.LICENSE.txt",
+    "static/media/search.b4166056.svg": "/movieland-React/static/media/search.b4166056.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d5a7673.js",
+    "static/js/2.9394ceee.chunk.js",
+    "static/css/main.267255b8.chunk.css",
+    "static/js/main.d217f3fc.chunk.js"
+  ]
+}
